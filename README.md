@@ -1,4 +1,4 @@
-<img alt="bob" align="left" src="BoBDot-color.png" width="20%" height="20%">
+<img alt="bob" align="left" src="logos/BoBDot-color.png" width="20%" height="20%">
 
 ## artwork
 Artwork and Logos for various projects that are free to use but adhere to the [License.](LICENSE)
